@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "CerritusCodersComm/community-website",
+    "stargazers_count": 2,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "enviroCar/envirocar-rasa-bot",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,14 +13,14 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 1191,
-    "open_issues_count": 36,
-    "forks_count": 26
+    "stargazers_count": 1227,
+    "open_issues_count": 28,
+    "forks_count": 27
   },
   {
     "full_name": "solana-developers/program-examples",
-    "stargazers_count": 55,
-    "open_issues_count": 10,
+    "stargazers_count": 56,
+    "open_issues_count": 12,
     "forks_count": 11
   },
   {
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 14270,
-    "open_issues_count": 67,
-    "forks_count": 574
+    "stargazers_count": 14361,
+    "open_issues_count": 63,
+    "forks_count": 579
   },
   {
     "full_name": "vedantbahel/viteED",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "solana-mobile/solana-mobile-stack-sdk",
-    "stargazers_count": 390,
+    "stargazers_count": 392,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -56,20 +62,20 @@
   {
     "full_name": "jordihales/hypercolor",
     "stargazers_count": 325,
-    "open_issues_count": 1,
-    "forks_count": 13
+    "open_issues_count": 0,
+    "forks_count": 12
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 2998,
-    "open_issues_count": 3,
+    "stargazers_count": 3020,
+    "open_issues_count": 1,
     "forks_count": 124
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 2437,
-    "open_issues_count": 567,
-    "forks_count": 874
+    "stargazers_count": 2447,
+    "open_issues_count": 569,
+    "forks_count": 880
   },
   {
     "full_name": "adityaoberai/RickRoll-AppwriteFunction",
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "androiddevnotes/awesome-android-learning-resources",
-    "stargazers_count": 1196,
+    "stargazers_count": 1199,
     "open_issues_count": 9,
-    "forks_count": 215
+    "forks_count": 219
   },
   {
     "full_name": "solana-developers/solana-grants",
     "stargazers_count": 13,
     "open_issues_count": 9,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Yadav106/Pong",
@@ -103,45 +109,45 @@
   },
   {
     "full_name": "devanshbatham/Solidity-Gas-Optimization-Tips",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58455,
+    "stargazers_count": 58484,
     "open_issues_count": 60,
     "forks_count": 1374
   },
   {
     "full_name": "alan-ai/alan-sdk-ios",
-    "stargazers_count": 1171,
+    "stargazers_count": 1181,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "alan-ai/alan-sdk-flutter",
-    "stargazers_count": 1094,
+    "stargazers_count": 1102,
     "open_issues_count": 3,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "alan-ai/alan-sdk-ionic",
-    "stargazers_count": 1056,
+    "stargazers_count": 1063,
     "open_issues_count": 38,
     "forks_count": 13
   },
   {
     "full_name": "alan-ai/alan-sdk-web",
-    "stargazers_count": 1443,
+    "stargazers_count": 1453,
     "open_issues_count": 22,
     "forks_count": 55
   },
   {
     "full_name": "alan-ai/alan-sdk-android",
-    "stargazers_count": 1077,
+    "stargazers_count": 1089,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "stegaBOB/solana-program-template",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 13643,
-    "open_issues_count": 16,
+    "stargazers_count": 13662,
+    "open_issues_count": 15,
     "forks_count": 2423
-  },
-  {
-    "full_name": "cdhiraj40/LeetDroid",
-    "stargazers_count": 18,
-    "open_issues_count": 5,
-    "forks_count": 3
   }
 ]
