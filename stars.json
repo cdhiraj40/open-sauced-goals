@@ -1,13 +1,13 @@
 [
   {
     "full_name": "solana-labs/solana",
-    "stargazers_count": 9741,
-    "open_issues_count": 1264,
-    "forks_count": 2521
+    "stargazers_count": 9763,
+    "open_issues_count": 1281,
+    "forks_count": 2520
   },
   {
     "full_name": "anamansari062/FillMyCycle",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27682,
-    "open_issues_count": 745,
-    "forks_count": 2289
+    "stargazers_count": 27756,
+    "open_issues_count": 755,
+    "forks_count": 2296
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 23321,
+    "stargazers_count": 23347,
     "open_issues_count": 33,
-    "forks_count": 2468
+    "forks_count": 2471
   },
   {
     "full_name": "euangoddard/clipboard2markdown",
     "stargazers_count": 392,
     "open_issues_count": 8,
-    "forks_count": 104
+    "forks_count": 103
   },
   {
     "full_name": "Suvraneel/GSSoC22-Leaderboard-BackEnd",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2719,
-    "open_issues_count": 59,
+    "stargazers_count": 2741,
+    "open_issues_count": 64,
     "forks_count": 73
   },
   {
     "full_name": "solana-developers/program-examples",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 10,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "solana-developers/developer-experience",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 15985,
+    "stargazers_count": 16083,
     "open_issues_count": 59,
-    "forks_count": 646
+    "forks_count": 649
   },
   {
     "full_name": "vedantbahel/viteED",
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "Picovoice/picovoice",
-    "stargazers_count": 305,
-    "open_issues_count": 0,
+    "stargazers_count": 306,
+    "open_issues_count": 1,
     "forks_count": 77
   },
   {
     "full_name": "solana-mobile/solana-mobile-stack-sdk",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "lorisleiva/solana-twitter",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 8,
     "forks_count": 52
   },
   {
     "full_name": "jordihales/hypercolor",
-    "stargazers_count": 389,
+    "stargazers_count": 392,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 13
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 3969,
+    "stargazers_count": 3986,
     "open_issues_count": 1,
-    "forks_count": 165
+    "forks_count": 166
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 2572,
-    "open_issues_count": 503,
-    "forks_count": 916
+    "stargazers_count": 2574,
+    "open_issues_count": 497,
+    "forks_count": 920
   },
   {
     "full_name": "adityaoberai/RickRoll-AppwriteFunction",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "androiddevnotes/awesome-android-learning-resources",
-    "stargazers_count": 1253,
+    "stargazers_count": 1258,
     "open_issues_count": 8,
     "forks_count": 227
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "devanshbatham/Solidity-Gas-Optimization-Tips",
-    "stargazers_count": 47,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58859,
+    "stargazers_count": 58882,
     "open_issues_count": 59,
     "forks_count": 1374
   },
   {
     "full_name": "alan-ai/alan-sdk-ios",
-    "stargazers_count": 1356,
+    "stargazers_count": 1366,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "alan-ai/alan-sdk-flutter",
-    "stargazers_count": 1257,
+    "stargazers_count": 1263,
     "open_issues_count": 2,
     "forks_count": 32
   },
   {
     "full_name": "alan-ai/alan-sdk-ionic",
-    "stargazers_count": 1224,
-    "open_issues_count": 50,
+    "stargazers_count": 1233,
+    "open_issues_count": 54,
     "forks_count": 14
   }
 ]
