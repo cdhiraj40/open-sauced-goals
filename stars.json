@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "ironforge-cloud/soldev-ui",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "metaplex-foundation/SolanaKT",
+    "stargazers_count": 53,
+    "open_issues_count": 12,
+    "forks_count": 23
+  },
+  {
     "full_name": "solana-mobile/mobile-wallet-adapter",
-    "stargazers_count": 143,
-    "open_issues_count": 41,
-    "forks_count": 52
+    "stargazers_count": 142,
+    "open_issues_count": 37,
+    "forks_count": 54
   },
   {
     "full_name": "roldanjr/pomatez",
-    "stargazers_count": 2545,
+    "stargazers_count": 2558,
     "open_issues_count": 98,
-    "forks_count": 116
+    "forks_count": 119
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 25569,
-    "open_issues_count": 47,
-    "forks_count": 979
+    "stargazers_count": 25635,
+    "open_issues_count": 46,
+    "forks_count": 984
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 42369,
-    "open_issues_count": 968,
-    "forks_count": 3574
+    "stargazers_count": 42767,
+    "open_issues_count": 973,
+    "forks_count": 3610
   },
   {
     "full_name": "remarkjs/remark-gfm",
-    "stargazers_count": 342,
+    "stargazers_count": 346,
     "open_issues_count": 1,
     "forks_count": 16
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 13848,
+    "stargazers_count": 13862,
     "open_issues_count": 24,
     "forks_count": 865
   },
@@ -39,25 +51,25 @@
     "full_name": "solana-labs/solana-program-library",
     "stargazers_count": 2219,
     "open_issues_count": 194,
-    "forks_count": 1346
+    "forks_count": 1347
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 65618,
-    "open_issues_count": 6,
-    "forks_count": 3349
+    "stargazers_count": 65724,
+    "open_issues_count": 8,
+    "forks_count": 3352
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 101746,
-    "open_issues_count": 1476,
-    "forks_count": 22685
+    "stargazers_count": 101903,
+    "open_issues_count": 1500,
+    "forks_count": 22734
   },
   {
     "full_name": "monkeytypegame/monkeytype",
-    "stargazers_count": 9438,
-    "open_issues_count": 35,
-    "forks_count": 1416
+    "stargazers_count": 9462,
+    "open_issues_count": 33,
+    "forks_count": 1420
   },
   {
     "full_name": "thlorenz/dox",
@@ -66,28 +78,28 @@
     "forks_count": 4
   },
   {
-    "full_name": "ironforge-cloud/soldev-ui",
+    "full_name": "ironforge-cloud/soldev-ui-old",
     "stargazers_count": 11,
     "open_issues_count": 5,
     "forks_count": 11
   },
   {
     "full_name": "atom/atom",
-    "stargazers_count": 59174,
+    "stargazers_count": 59177,
     "open_issues_count": 1001,
-    "forks_count": 18294
+    "forks_count": 18296
   },
   {
     "full_name": "munificent/craftinginterpreters",
-    "stargazers_count": 6311,
+    "stargazers_count": 6324,
     "open_issues_count": 92,
-    "forks_count": 804
+    "forks_count": 806
   },
   {
     "full_name": "solana-labs/solana",
-    "stargazers_count": 10076,
-    "open_issues_count": 896,
-    "forks_count": 2782
+    "stargazers_count": 10081,
+    "open_issues_count": 910,
+    "forks_count": 2785
   },
   {
     "full_name": "anamansari062/FillMyCycle",
@@ -103,19 +115,19 @@
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 29584,
-    "open_issues_count": 632,
-    "forks_count": 2482
+    "stargazers_count": 29650,
+    "open_issues_count": 637,
+    "forks_count": 2487
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 24046,
+    "stargazers_count": 24079,
     "open_issues_count": 43,
-    "forks_count": 2566
+    "forks_count": 2572
   },
   {
     "full_name": "euangoddard/clipboard2markdown",
-    "stargazers_count": 409,
+    "stargazers_count": 414,
     "open_issues_count": 8,
     "forks_count": 109
   },
@@ -139,8 +151,8 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 3289,
-    "open_issues_count": 134,
+    "stargazers_count": 3298,
+    "open_issues_count": 139,
     "forks_count": 100
   },
   {
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 18622,
-    "open_issues_count": 82,
-    "forks_count": 746
+    "stargazers_count": 18756,
+    "open_issues_count": 84,
+    "forks_count": 751
   },
   {
     "full_name": "vedantbahel/viteED",
     "stargazers_count": 31,
     "open_issues_count": 5,
     "forks_count": 17
-  },
-  {
-    "full_name": "Picovoice/picovoice",
-    "stargazers_count": 337,
-    "open_issues_count": 4,
-    "forks_count": 85
-  },
-  {
-    "full_name": "solana-mobile/solana-mobile-stack-sdk",
-    "stargazers_count": 501,
-    "open_issues_count": 2,
-    "forks_count": 45
   }
 ]
