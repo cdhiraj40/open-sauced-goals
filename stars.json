@@ -1,8 +1,8 @@
 [
   {
     "full_name": "airbnb/mavericks",
-    "stargazers_count": 5876,
-    "open_issues_count": 62,
+    "stargazers_count": 5879,
+    "open_issues_count": 64,
     "forks_count": 500
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "espanso/espanso",
-    "stargazers_count": 10630,
-    "open_issues_count": 385,
-    "forks_count": 290
+    "stargazers_count": 10662,
+    "open_issues_count": 386,
+    "forks_count": 291
   },
   {
     "full_name": "iamvon/zk-compression-nextjs-actions",
@@ -25,51 +25,51 @@
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 12553,
-    "open_issues_count": 408,
-    "forks_count": 2114
+    "stargazers_count": 12561,
+    "open_issues_count": 413,
+    "forks_count": 2115
   },
   {
     "full_name": "moonlight-stream/moonlight-android",
-    "stargazers_count": 4800,
-    "open_issues_count": 313,
-    "forks_count": 753
+    "stargazers_count": 4817,
+    "open_issues_count": 314,
+    "forks_count": 756
   },
   {
     "full_name": "LizardByte/Sunshine",
-    "stargazers_count": 23442,
-    "open_issues_count": 114,
-    "forks_count": 1111
+    "stargazers_count": 23572,
+    "open_issues_count": 120,
+    "forks_count": 1119
   },
   {
     "full_name": "ethanlynn/calcium",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 141167,
-    "open_issues_count": 1620,
-    "forks_count": 28277
+    "stargazers_count": 141386,
+    "open_issues_count": 1643,
+    "forks_count": 28317
   },
   {
     "full_name": "elevenlabs/elevenlabs-python",
-    "stargazers_count": 2432,
-    "open_issues_count": 23,
-    "forks_count": 293
+    "stargazers_count": 2437,
+    "open_issues_count": 24,
+    "forks_count": 295
   },
   {
     "full_name": "amix/vimrc",
-    "stargazers_count": 31088,
+    "stargazers_count": 31100,
     "open_issues_count": 12,
-    "forks_count": 7312
+    "forks_count": 7311
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 101945,
-    "open_issues_count": 10831,
-    "forks_count": 13201
+    "stargazers_count": 102058,
+    "open_issues_count": 10821,
+    "forks_count": 13213
   },
   {
     "full_name": "near/borsh",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "coral-xyz/backpack",
-    "stargazers_count": 1467,
+    "stargazers_count": 1471,
     "open_issues_count": 503,
-    "forks_count": 858
+    "forks_count": 861
   },
   {
     "full_name": "signalapp/Signal-Android",
-    "stargazers_count": 26262,
-    "open_issues_count": 360,
-    "forks_count": 6300
+    "stargazers_count": 26278,
+    "open_issues_count": 358,
+    "forks_count": 6305
   },
   {
     "full_name": "Saganize/Solwave-kt",
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 8686,
-    "open_issues_count": 91,
-    "forks_count": 952
+    "stargazers_count": 8682,
+    "open_issues_count": 92,
+    "forks_count": 953
   },
   {
     "full_name": "koodo-reader/koodo-reader",
-    "stargazers_count": 21431,
-    "open_issues_count": 498,
-    "forks_count": 1657
+    "stargazers_count": 21486,
+    "open_issues_count": 504,
+    "forks_count": 1661
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 58778,
-    "open_issues_count": 335,
-    "forks_count": 8873
+    "stargazers_count": 58845,
+    "open_issues_count": 334,
+    "forks_count": 8881
   },
   {
     "full_name": "bumptech/glide",
-    "stargazers_count": 34806,
+    "stargazers_count": 34816,
     "open_issues_count": 565,
     "forks_count": 6148
   },
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "altstoreio/AltStore",
-    "stargazers_count": 12240,
+    "stargazers_count": 12249,
     "open_issues_count": 546,
-    "forks_count": 976
+    "forks_count": 977
   },
   {
     "full_name": "ish-app/ish",
-    "stargazers_count": 17738,
+    "stargazers_count": 17748,
     "open_issues_count": 643,
-    "forks_count": 987
+    "forks_count": 993
   },
   {
     "full_name": "maunium/dontasktoask.com",
-    "stargazers_count": 447,
+    "stargazers_count": 448,
     "open_issues_count": 19,
     "forks_count": 96
   },
   {
     "full_name": "darlinghq/darling",
-    "stargazers_count": 11776,
+    "stargazers_count": 11786,
     "open_issues_count": 305,
     "forks_count": 450
   },
   {
     "full_name": "exelban/stats",
-    "stargazers_count": 29860,
-    "open_issues_count": 18,
-    "forks_count": 953
+    "stargazers_count": 29960,
+    "open_issues_count": 17,
+    "forks_count": 955
   },
   {
     "full_name": "cdhiraj40/mobile-dapp-scaffold",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 34466,
-    "open_issues_count": 1119,
-    "forks_count": 8857
+    "stargazers_count": 35040,
+    "open_issues_count": 1122,
+    "forks_count": 8904
   },
   {
     "full_name": "solana-labs/dapp-scaffold",
     "stargazers_count": 1803,
     "open_issues_count": 20,
-    "forks_count": 1015
+    "forks_count": 1017
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 58390,
-    "open_issues_count": 211,
-    "forks_count": 1475
+    "stargazers_count": 58477,
+    "open_issues_count": 215,
+    "forks_count": 1477
   }
 ]
